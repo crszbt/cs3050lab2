@@ -1,4 +1,4 @@
-# CMP_SC 3050 FS2024
+# CMP_SC 3050 FS2025
 
 # Assignment 2: Implement Heap Sort
 
@@ -19,7 +19,7 @@ worker functions as well, similar to the pseudocode provided in class.
 The starter code is publicly available on GitHub. You can clone it using
 git via the following command:
 
-> git clone https://github.com/angrynarwhal/cs3050fs2024a2 
+> git clone https://github.com/angrynarwhal/cs3050fs2025a2 
 
 I recommend you clone this code somewhere under your home directory on
 tc.rnet.missouri.edu. You are welcome to clone this and work on your
